@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_Assignment1/static/css/main.9cee2ee6.chunk.css",
+    "main.js": "/React_Assignment1/static/js/main.263f7175.chunk.js",
+    "main.js.map": "/React_Assignment1/static/js/main.263f7175.chunk.js.map",
+    "runtime-main.js": "/React_Assignment1/static/js/runtime-main.cbd6feea.js",
+    "runtime-main.js.map": "/React_Assignment1/static/js/runtime-main.cbd6feea.js.map",
+    "static/js/2.51d247a9.chunk.js": "/React_Assignment1/static/js/2.51d247a9.chunk.js",
+    "static/js/2.51d247a9.chunk.js.map": "/React_Assignment1/static/js/2.51d247a9.chunk.js.map",
+    "index.html": "/React_Assignment1/index.html",
+    "static/css/main.9cee2ee6.chunk.css.map": "/React_Assignment1/static/css/main.9cee2ee6.chunk.css.map",
+    "static/js/2.51d247a9.chunk.js.LICENSE.txt": "/React_Assignment1/static/js/2.51d247a9.chunk.js.LICENSE.txt",
+    "static/media/vegeta.b903c024.jpg": "/React_Assignment1/static/media/vegeta.b903c024.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbd6feea.js",
+    "static/js/2.51d247a9.chunk.js",
+    "static/css/main.9cee2ee6.chunk.css",
+    "static/js/main.263f7175.chunk.js"
+  ]
+}
